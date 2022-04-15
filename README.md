@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kokou Elolo AMEGAYIBO</h2>
 <p align="center">A passionate Web & GIS developer from Togo</p>
-<p align="justify"> Self-taught web/GIS developer and a data analyst. I'm passionate about code, Maps, Data. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
+<p align="justify"> Self-taught web/GIS developer and a data analyst. I'm passionate about code, Maps, Data. i am also an open-source and open data enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 
 
 ## 🔧 Technologies & Tools
@@ -37,14 +37,9 @@
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
-
-<br />
-
-
 <h2>GitHub Stats</h2>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akeamazan&show_icons=true&locale=en&layout=compact" alt="akeamazan" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=akeamazan&amp;show_icons=true" alt="GitHub Stats"></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akeamazan&"  alt="akeamazan"</p>
 
 <h2 align="left">Connect with me:</h2>
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> </p>
@@ -67,6 +62,4 @@
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/akeamazan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akeamazan" /></a><a href="https://ko-fi.com/akeamazan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="akeamazan" /></a></p><br><br>
 
-<h2> Github Profile Trophy: </h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akeamazan" alt="akeamazan" /></a> </p>
 
