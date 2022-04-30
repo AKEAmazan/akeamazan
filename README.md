@@ -1,7 +1,7 @@
   <img align="right" alt="GIF" src="https://github.com/AKEAmazan/akeamazan/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kokou Elolo AMEGAYIBO</h2>
-<p align="center">A passionate Web & GIS developer from Togo</p>
+<p align="center">A passionate Web & GIS developer from Togo 🇹🇬 </p>
 <p align="justify"> Self-taught web/GIS developer and a data analyst. I'm passionate about code, Maps, Data. i am also an open-source and open data enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 
 
